@@ -6,7 +6,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | --- | --- | --- | --- | --- |
 | 717 | 1-bit and 2-bit Characters |  Easy | Google | |
 | 67 | [Add Binary][67] |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | ✅ |
-| 258 | Add Digits |  Easy | Adobe, Apple |  |
+| 258 | [Add Digits][717] |  Easy | Adobe, Apple |  |
 | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | |
 | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |  |
 | 844 | Backspace String Compare |  Easy | Google |  |
@@ -699,3 +699,4 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 
 
 [67]: <https://github.com/abhinavroy23/leetcode-questions-by-company/blob/master/Solutions/67.%20Add%20Binary.swift>
+[717]: <https://github.com/abhinavroy23/leetcode-questions-by-company/blob/master/Solutions/717.%201-bit%20and%202-bit%20Characters.swift>
