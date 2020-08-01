@@ -5,7 +5,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | **ID** | **Name** | **Difficulty.Level** | **Companies** | **Status**
 | --- | --- | --- | --- | --- |
 | 717 | 1-bit and 2-bit Characters |  Easy | Google | |
-| 67 | Add Binary |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | ✅ |
+| 67 | Add Binary[67] |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | ✅ |
 | 258 | Add Digits |  Easy | Adobe, Apple |  |
 | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | |
 | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |  |
@@ -695,3 +695,7 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 | 212 | Word Search II |  Hard | Airbnb, Amazon, Apple, Facebook, Microsoft |
 | 425 | Word Squares |  Hard | Google |
 | 218 | The Skyline Problem |  Hard | Facebook |
+
+
+
+[67]: <https://github.com/abhinavroy23/leetcode-questions-by-company/blob/master/Solutions/67.%20Add%20Binary.swift>
