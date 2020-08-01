@@ -4,9 +4,9 @@ A list of LeetCode questions with the corresponding companies sorted by difficul
 
 | **ID** | **Name** | **Difficulty.Level** | **Companies** | **Status**
 | --- | --- | --- | --- | --- |
-| 717 | 1-bit and 2-bit Characters |  Easy | Google | |
+| 717 | [1-bit and 2-bit Characters][717] |  Easy | Google | |
 | 67 | [Add Binary][67] |  Easy | Adobe, Amazon, Facebook, Google, Microsoft | ✅ |
-| 258 | [Add Digits][717] |  Easy | Adobe, Apple |  |
+| 258 | Add Digits |  Easy | Adobe, Apple |  |
 | 415 | Add Strings |  Easy | Apple, Facebook, Google, Microsoft | |
 | 637 | Average of Levels in Binary Tree |  Easy | Amazon, Facebook |  |
 | 844 | Backspace String Compare |  Easy | Google |  |
